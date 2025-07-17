@@ -1,0 +1,11 @@
+--module-path
+"C:\\Users\\mathe\\Downloads\\openjfx-21.0.6_windows-x64_bin-sdk\\javafx-sdk-21.0.6\\lib"
+--add-modules
+javafx.controls,javafx.fxml
+-Dfile.encoding=UTF-8
+-Dstdout.encoding=UTF-8
+-Dstderr.encoding=UTF-8
+-classpath
+"C:\\Users\\mathe\\eclipse-workspace\\AdivinheONumero"
+-XX:+ShowCodeDetailsInExceptionMessages
+AdivinheONumero.AdivinheONumero
